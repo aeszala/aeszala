@@ -1,6 +1,6 @@
 Hi there 👋
-I'm a computer science major at the University of South Carolina (Go Cocks!)
-I have a few personal projects I'm working on alongside some school projects :)
+- I'm a computer science major at the University of South Carolina (Go Cocks!)  
+- I have a few personal projects I'm working on alongside some school projects :)
 
 Email: aeszala@gmail.com
 
